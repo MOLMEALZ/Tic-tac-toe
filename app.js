@@ -148,3 +148,8 @@ function removeATT() {
 function replay() {
   window.location.reload();
 }
+
+
+function(){
+  console.log('trying something different');
+}
